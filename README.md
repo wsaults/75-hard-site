@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 75 Hard Support
 
 You can use the [editor on GitHub](https://github.com/wsaults/75-hard-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
